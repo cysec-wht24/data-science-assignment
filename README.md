@@ -1,5 +1,4 @@
-# Data-Science-Assignment---Google-Collab
-# 📊 Data Science Assignment 2 - Manomay Bisht
+# 📊 Data Science Assignment 3 - Manomay Bisht
 
 **Python Pandas Numpy Matplotlib Mastery**  
 *Series & DataFrame Operations*
@@ -9,7 +8,7 @@
 
 ## 📋 Overview
 
-This Jupyter Notebook contains solutions to **Data Science Assignment 2** covering core **Pandas** concepts with practical examples on:
+This Jupyter Notebook contains solutions to **Data Science Assignment 3** covering core **Pandas** concepts with practical examples on:
 
 - Pandas **Series** creation, indexing, arithmetic, filtering & manipulation
 - Pandas **DataFrame** operations (creation, modification, filtering, statistics)
@@ -83,21 +82,6 @@ This Jupyter Notebook contains solutions to **Data Science Assignment 2** coveri
 3. All outputs are already included for reference
 
 ---
-
-## 👨‍💻 Author
-
-**Manomay Bisht**  
-Just a Data Science Learner 
-*Passionate about Python, Pandas & Data Analysis*
-
----
-
-⭐ **Star this repository** if you found it helpful!
-
----------------------------------------------------------------------------------
-# Data Science Assignment 3 - Manomay Bisht
-
-Jupyter notebook with Python code for plotting exercises.
 
 ## Questions Covered
 1. Alphabet Inc. financial line chart (Oct 3-7, 2016)
